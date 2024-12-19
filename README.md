@@ -1,2 +1,3 @@
 # first
-This is first git repository
+This is my first git repository
+by -Ansh pratap singh
